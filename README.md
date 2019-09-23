@@ -1,4 +1,4 @@
-# command-line-spoons
+# Welcome to Command Line Spoons
 
 ## Compilation
 To compile, type the following into the command prompt:
